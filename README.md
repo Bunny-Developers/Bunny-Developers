@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm Hillary Okoth (aka Bunny Developers), a passionate Frontend Developer specializing in building responsive, modern, and user-friendly web applications.
 
-🔗 **Portfolio:** [bunny-developers.github.io/Portfolio](https://bunny-developers.github.io/Portfolio/)  
+🔗 **Portfolio:** [bunny-developers.github.io/abt](https://abt-hillary.netlify.app/)  
 📧 **Email:** [hillaryokoth002@gmail.com](mailto:hillaryokoth002@gmail.com)  
 💼 **LinkedIn:** [Hillary Okoth](https://www.linkedin.com/in/hillary-okoth-38a9a6268)  
 🐦 **Twitter:** [@OkothHillary254](https://x.com/OkothHillary254)  
@@ -41,11 +41,11 @@ Welcome to my GitHub profile! I'm Hillary Okoth (aka Bunny Developers), a passio
 📂 **Repo:** [GitHub Repo Link]  
 
 <!-- PROJECT 2 -->
-### 2. [Project Name]
-📌 **Description:** [Brief description]  
-🔗 **Live Demo:** [Demo URL]  
+### 2. abt
+📌 **Description:** A Simple well designed personal profile portfolio.  
+🔗 **Live Demo:** (https://abt-hillary.netlify.app)  
 🛠️ **Tech Stack:** HTML, CSS, JavaScript  
-📂 **Repo:** [GitHub Repo Link]  
+📂 **Repo:** (https://github.com/bunny-developers/abt)  
 
 <!-- PROJECT 3 -->
 ### 3. [Project Name]
